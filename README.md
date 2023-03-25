@@ -18,7 +18,6 @@ https://github.com/ajeetraina/awesome-compose
 ## user interfaces:
 
 - ReactApp http://localhost:3000
-- ReactApp http://localhost:3000
 
 ## GitHub
 
