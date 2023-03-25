@@ -89,7 +89,12 @@ Make sure port 3000 on the host is not already being in use.
 ## Deploy with docker compose
 
 ```
-$ docker compose up -d
+docker compose up -d
+```
+
+Output
+
+```
 Creating network "react-express-mongodb_default" with the default driver
 Building frontend
 Step 1/9 : FROM node:13.13.0-stretch-slim
